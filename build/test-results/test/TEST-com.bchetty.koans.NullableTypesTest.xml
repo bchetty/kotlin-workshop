@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bchetty.koans.NullableTypesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-07T22:32:47" hostname="bcpro" time="0.023">
+  <properties/>
+  <testcase name="testCase1()" classname="com.bchetty.koans.NullableTypesTest" time="0.017"/>
+  <testcase name="testCase2()" classname="com.bchetty.koans.NullableTypesTest" time="0.001"/>
+  <testcase name="testCase3()" classname="com.bchetty.koans.NullableTypesTest" time="0.001"/>
+  <testcase name="testCase4()" classname="com.bchetty.koans.NullableTypesTest" time="0.001"/>
+  <system-out><![CDATA[Mail not sent!
+Mail not sent!
+Mail not sent!
+Sent Message: Hello Kotlin World! to Email: bchetty@koans.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
